@@ -24,7 +24,9 @@ class Homescren extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Assignment")),
+      appBar: AppBar(
+         centerTitle: true,
+        title: Text("Assignment")),
       body: Column(children:
        [
         SizedBox(
