@@ -10,14 +10,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomePage(),
+      home:  FirstFlutterApp(),
       
     );
   }
 }
 
- class HomePage extends StatelessWidget {
-   const HomePage({super.key});
+ class FirstFlutterApp extends StatelessWidget {
+   const  FirstFlutterApp({super.key});
 
    @override
    Widget build(BuildContext context) {
