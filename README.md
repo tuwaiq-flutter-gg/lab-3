@@ -1,8 +1,5 @@
 ### lab-3
-
-#### Using Flutter to create this page below, you can be creative but you need to stick to the main objects in the image:
-
-Note: Name your app `FirstFlutterApp`
-
-
-![Flutter1](https://user-images.githubusercontent.com/74452750/203798624-ecf65522-b76f-4104-876e-694c5806fc48.jpeg)
+## In this project, I tried to build a profile page for Student Club App.
+# The goal of this project is to practice on the flutter. And it's was real fun.
+# The design is inspired by the FTC application.
+<img width="324" alt="Screenshot 1444-05-03 at 11 48 48 AM" src="https://user-images.githubusercontent.com/110669332/204131888-2fb09041-61f7-4aef-bce9-b863214c972e.png">
