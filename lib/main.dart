@@ -200,15 +200,15 @@ class MyApp extends StatelessWidget {
           items: const <BottomNavigationBarItem>[
             BottomNavigationBarItem(
               icon: Icon(Icons.person),
-              label: "profile",
+              label: "الملف الشخصي",
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
-              label: "home",
+              label: "الصفحة الرئيسية",
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.leaderboard),
-              label: "leaderboard",
+              label: "النقاط",
             ),
           ],
         ),
