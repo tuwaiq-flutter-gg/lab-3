@@ -30,8 +30,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: Container(
-          // height: 932,
-          // width: 430,
           decoration: BoxDecoration(
             gradient: LinearGradient(
               begin: Alignment.topCenter,

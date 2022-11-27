@@ -1,16 +1,8 @@
-# app01
+### lab-3
 
-A new Flutter project.
+#### Using Flutter to create this page below, you can be creative but you need to stick to the main objects in the image:
 
-## Getting Started
+Note: Name your app `FirstFlutterApp`
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter1](https://user-images.githubusercontent.com/74452750/203798624-ecf65522-b76f-4104-876e-694c5806fc48.jpeg)
